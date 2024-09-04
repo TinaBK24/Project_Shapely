@@ -121,9 +121,12 @@ a{
 }
 
 .buttons-container button:nth-of-type(2):hover{
-    color:black !important;
     background-color: white !important;
     border: none !important;
+}
+
+.buttons-container button:nth-of-type(2):hover a{
+    color:black !important;
 }
 
 .links_img{
