@@ -434,6 +434,9 @@ footer span{
         align-content: flex-end;
         align-items: center;
     }
+    .burger-button:hover{
+        background: none;
+    }
     .burger{
         background-color: #3A52BF;
         height: 3px;
@@ -480,6 +483,9 @@ footer span{
         background-color: white;
         padding: 0;
         margin: 0;
+    }
+    .burger-button:hover{
+        background: none;
     }
     .burger{
         background-color: #3A52BF;
@@ -579,6 +585,9 @@ footer span{
         background-color: white;
         padding: 0;
         margin: 0;
+    }
+    .burger-button:hover{
+        background: none;
     }
     .burger{
         background-color: #3A52BF;
